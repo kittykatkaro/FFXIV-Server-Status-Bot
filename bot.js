@@ -2,7 +2,7 @@ const { Client, GatewayIntentBits } = require('discord.js');
 const axios = require('axios');
 const cheerio = require('cheerio');
 
-const TOKEN = 'MTI3MDAwNjE1MjkwMTU1ODI5NQ.GCjmfv.vWSBC8h0R5HD3tNJQjmPIzELHfoPqzr4K2ILBo';
+const TOKEN = 'DISCORD_TOKEN';
 
 const client = new Client({ intents: [GatewayIntentBits.Guilds, GatewayIntentBits.GuildMessages, GatewayIntentBits.MessageContent] });
 
