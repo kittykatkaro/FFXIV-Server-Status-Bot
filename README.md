@@ -1,6 +1,7 @@
 # Discord FFXIV Server Status Bot
 
 This is a Discord bot that monitors the server statuses of Final Fantasy XIV (FFXIV) and notifies users about changes. Users can opt to receive notifications via Direct Message (DM) or in a specified channel.
+You can invite the Bot to your server here: https://discord.com/oauth2/authorize?client_id=1270006152901558295
 
 ## Features
 
